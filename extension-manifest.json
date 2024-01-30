@@ -1,0 +1,18 @@
+{
+  "name": "example",
+  "id": "example",
+  "description": "this is an example",
+  "version": "0.0.1",
+  "actionBarButtons": [
+    {
+      "label": "Bulk Property Update",
+      "needsModal": true,
+      "id": "bulk-property-update"
+    }
+  ],
+  "runtimeActions": [
+    {
+      "name": "generic"
+    }
+  ]
+}
